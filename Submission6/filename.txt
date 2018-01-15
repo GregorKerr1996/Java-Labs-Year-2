@@ -1,0 +1,6 @@
+10005,Set Number 5,Knights,300,60
+10002,Set Number 2,Knights,150,30
+10003,Set Number 3,Knights,200,40
+10006,Set Number 6,Knights,350,70
+10004,Set Number 4,Knights,250,50
+10001,Set Number 1,Knights,100,20
